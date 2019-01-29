@@ -62,6 +62,8 @@ Automation Process:
 Push configurations using Ansible roles.
 
 
+
+
 Implement containerized solutions in managing our application as microservices using docker containers
 
 
@@ -69,5 +71,8 @@ Implementing kubernetes solution in managing, optimizing our container infrastru
 
 
 Implementing Nginx web server as a reverse proxy and load balancer to Managing Apache servers in this environment
+
+
+please ignore below line just adding this to test my jemkins pipeline
 
 
