@@ -73,6 +73,6 @@ Implementing kubernetes solution in managing, optimizing our container infrastru
 Implementing Nginx web server as a reverse proxy and load balancer to Managing Apache servers in this environment
 
 
-please ignore below line just adding this to test my jemkins pipeline
+please ignore below line just adding this to test my jemkins pipeline...
 
 
